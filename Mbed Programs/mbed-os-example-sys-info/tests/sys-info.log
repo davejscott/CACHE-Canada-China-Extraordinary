@@ -1,0 +1,4 @@
+Mbed OS Version:
+CPU ID: 0x[0-9a-fA-F]+
+Compiler ID: \d+
+Compiler Version: \d+

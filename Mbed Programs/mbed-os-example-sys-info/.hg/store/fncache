@@ -1,0 +1,10 @@
+data/.github/issue_template.md.i
+data/tests/README.md.i
+data/mbed-os.lib.i
+data/tests/sys-info.log.i
+data/.gitignore.i
+data/CONTRIBUTING.md.i
+data/mbed_app.json.i
+data/main.cpp.i
+data/LICENSE.i
+data/README.md.i

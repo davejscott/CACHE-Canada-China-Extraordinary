@@ -1,0 +1,8 @@
+{
+    "macros": ["MBED_SYS_STATS_ENABLED"],
+    "target_overrides": {
+        "*": {
+            "platform.stdio-convert-newlines": 1
+        }
+    }
+}
